@@ -1,0 +1,26 @@
+{
+  "Play": "Přehrát",
+  "Pause": "Pauza",
+  "Current Time": "Aktuální čas",
+  "Duration Time": "Doba trvání",
+  "Remaining Time": "Zbývající čas",
+  "Stream Type": "نوع التيار",
+  "LIVE": "ŽIVĚ",
+  "Loaded": "Načteno",
+  "Progress": "Postup",
+  "Fullscreen": "Celá obrazovka",
+  "Non-Fullscreen": "Zmenšená obrazovka",
+  "Mute": "Vypnout zvuk",
+  "Unmuted": "Zapnout zvuk",
+  "Playback Rate": "Rychlost přehrávání",
+  "Subtitles": "Titulky",
+  "subtitles off": "Titulky vypnuty",
+  "Captions": "Popisky",
+  "captions off": "Popisky vypnuty",
+  "Chapters": "Kapitoly",
+  "You aborted the video playback": "Přerušil jste přehrávání videa.",
+  "A network error caused the video download to fail part-way.": "Chyba sítě, stažení videa se nezdařilo."
+  "The video could not be loaded, either because the server or network failed or because the format is not supported.": "Video nemůže být načteno, kvůli chybě serveru nebo sítě nebo proto, že tento formát není podporován.",
+  "The video playback was aborted due to a corruption problem or because the video used features your browser did not support.": "Přehrávání videa bylo přerušeno, jelikož ho váš prohlížeč nepodporuje.",
+  "No compatible source was found for this video.": "Nebyl nalezen zdroj pro toto video."
+}
